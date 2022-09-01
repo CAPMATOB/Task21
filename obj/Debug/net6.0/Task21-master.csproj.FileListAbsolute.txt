@@ -1,0 +1,15 @@
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\Task21-master.csproj.AssemblyReference.cache
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\Task21-master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\Task21-master.AssemblyInfoInputs.cache
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\Task21-master.AssemblyInfo.cs
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\Task21-master.csproj.CoreCompileInputs.cache
+C:\Users\CAPMAT\Desktop\GB\Task21-master\bin\Debug\net6.0\Task21-master.exe
+C:\Users\CAPMAT\Desktop\GB\Task21-master\bin\Debug\net6.0\Task21-master.deps.json
+C:\Users\CAPMAT\Desktop\GB\Task21-master\bin\Debug\net6.0\Task21-master.runtimeconfig.json
+C:\Users\CAPMAT\Desktop\GB\Task21-master\bin\Debug\net6.0\Task21-master.dll
+C:\Users\CAPMAT\Desktop\GB\Task21-master\bin\Debug\net6.0\Task21-master.pdb
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\Task21-master.dll
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\refint\Task21-master.dll
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\Task21-master.pdb
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\Task21-master.genruntimeconfig.cache
+C:\Users\CAPMAT\Desktop\GB\Task21-master\obj\Debug\net6.0\ref\Task21-master.dll
